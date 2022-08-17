@@ -8,7 +8,6 @@
 <div align="center">
   <a href="https://github.com/bellecavalcante">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bellecavalcante&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bellecavalcante&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ##
